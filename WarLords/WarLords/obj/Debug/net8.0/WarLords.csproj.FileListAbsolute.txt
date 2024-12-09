@@ -1,0 +1,15 @@
+C:\Users\blick\source\repos\WarLords\WarLords\bin\Debug\net8.0\WarLords.exe
+C:\Users\blick\source\repos\WarLords\WarLords\bin\Debug\net8.0\WarLords.deps.json
+C:\Users\blick\source\repos\WarLords\WarLords\bin\Debug\net8.0\WarLords.runtimeconfig.json
+C:\Users\blick\source\repos\WarLords\WarLords\bin\Debug\net8.0\WarLords.dll
+C:\Users\blick\source\repos\WarLords\WarLords\bin\Debug\net8.0\WarLords.pdb
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.AssemblyInfoInputs.cache
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.AssemblyInfo.cs
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.csproj.CoreCompileInputs.cache
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.sourcelink.json
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.dll
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\refint\WarLords.dll
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.pdb
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\WarLords.genruntimeconfig.cache
+C:\Users\blick\source\repos\WarLords\WarLords\obj\Debug\net8.0\ref\WarLords.dll
